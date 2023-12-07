@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.App {
+  background-color: #dddedd;
+  /* background-color: #1c2429; */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.App-dark {
+  /* background-color: #dddedd; */
+  background-color: #1c2429;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
